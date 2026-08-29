@@ -1,17 +1,31 @@
-Date: Sat, 29 Aug 2026 20:50:40 +0000
+Architectures: aarch64 all
+Codename: stable
+Components: main
+Date: Sat, 29 Aug 2026 20:59:40 +0000
+Label: Termgram APT
+Origin: termgram-apt
+Suite: stable
 MD5Sum:
- 06f4cdbedeaf46ac798c50ac5ab15639               38 Release
+ 02ea0746c0e135e821e2d7672ee37e06              154 Release
+ b2307c48b7c349b37733582c2dfc8f12              442 main/binary-aarch64/Packages
+ 8c8cd9c188d46ea2bd8aaae2490a120d              345 main/binary-aarch64/Packages.gz
  b2307c48b7c349b37733582c2dfc8f12              442 main/binary-all/Packages
  bd46503e786efb17f7708bc3ce528ead              345 main/binary-all/Packages.gz
 SHA1:
- 3b32039e5e64c9abafef32d3aa3298cd6558700e               38 Release
+ db879c68fbcb02d332b52d24f1e5498b52096e21              154 Release
+ f33ea2e17a0462f7b608ff8bda3e2cdd6f5824e6              442 main/binary-aarch64/Packages
+ 275abb3947e4f16dd8d5a6adf535fd8dfba23e96              345 main/binary-aarch64/Packages.gz
  f33ea2e17a0462f7b608ff8bda3e2cdd6f5824e6              442 main/binary-all/Packages
  e209af6f2452790c97f20c1c26944aeed4716c47              345 main/binary-all/Packages.gz
 SHA256:
- 25110b812750dca39a5f708fb245c5a7808a231c43ea7810c3dab77446d0c80f               38 Release
+ b51d2386d6052a632d80fe910fe4bf90df590c0522cf3bc9a54ab5f7ec491fe5              154 Release
+ 0d9e83288cafe664be46de414870d84f93cecb8a6d2fc0e8b6bd161c06c9fa75              442 main/binary-aarch64/Packages
+ 6449c3f2dbc4f2a2c5acd08fd12bc9f0fbbce53733420670cb4cc0c5f4abaeab              345 main/binary-aarch64/Packages.gz
  0d9e83288cafe664be46de414870d84f93cecb8a6d2fc0e8b6bd161c06c9fa75              442 main/binary-all/Packages
  43734f69923cd7c14afb77eeab39f3b13d839e05e4c7ab0b1654f1f5b1dd200d              345 main/binary-all/Packages.gz
 SHA512:
- 046475408264b6cf961fdae04a4b55840866aef698f7acea92e31d4af42225643dfad75671c4d54964bbf4c2de65eec82ac5c6b7f10add947d4ada9d0b8b91d0               38 Release
+ 1aacfa73539e394a492e58ca999694fa6a0582d1a52e9416b6bca5ea6850e0e175f5ce8b87dadc6dd47ef2df308f3e86f7c8b73ee10423e72b791888099138e3              154 Release
+ 178b85703fd91d1879fc992199f0df9334af1e4c936984947020cc72268e735969735416d98c9276bab4dcb9e10eb6a98b62e381dd0ce447b752c25bf43e9410              442 main/binary-aarch64/Packages
+ 7b036f7aa53f10503adbba6c62606b6c0be78d298989d5ac3a17fed6fa0cafa97e0d1519687b087faf6b0e06ad8f056016fb48a9ea1e203fb242850be13e78df              345 main/binary-aarch64/Packages.gz
  178b85703fd91d1879fc992199f0df9334af1e4c936984947020cc72268e735969735416d98c9276bab4dcb9e10eb6a98b62e381dd0ce447b752c25bf43e9410              442 main/binary-all/Packages
  b6a58538024c5e4c43e553411241906ab8c9a126ca078a7053ec43eee87ad24eae1313f852ac428dbeda5355cb8446e7e1789e7c68e5e81a948a05ba29e78758              345 main/binary-all/Packages.gz
