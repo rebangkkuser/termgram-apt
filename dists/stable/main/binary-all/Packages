@@ -1,0 +1,15 @@
+Package: termgram
+Version: 0.1.0
+Architecture: all
+Maintainer: Kyro <kyro@localhost>
+Depends: python3, python3-telethon, python3-textual
+Filename: pool/main/termgram_0.1.0_all.deb
+Size: 5272
+MD5sum: 9f3933fb36633b1888f59eadf5bf7852
+SHA1: f806e3008ae704ae5ced3bb0fa589e49b4ca46d5
+SHA256: 7bd38c4ef3abf3ce9ed47ccea95a458b6bc793cd283e5c77bd9fd7cdc73a51fe
+Section: net
+Priority: optional
+Description: TermGram
+ Telegram client for the terminal.
+

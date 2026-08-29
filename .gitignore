@@ -1,0 +1,27 @@
+# GPG / chaves privadas
+*.gpg-secret
+*.private
+*.priv
+private-keys-v1.d/
+secring.gpg
+secring.gpg~
+trustdb.gpg~
+
+# arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# lixo de editores
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# ambiente local
+.env
+.env.*
